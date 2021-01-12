@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482594140560",
+    "project_id": "shoestop-439da",
+    "storage_bucket": "shoestop-439da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482594140560:android:a5b7b4e75ad8888b3b8315",
+        "android_client_info": {
+          "package_name": "com.example.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482594140560-sp9hhif6if11jvafjl066bcqlhnsj09q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopapp",
+            "certificate_hash": "c6c1bd2889ca741beec87fbc1da7bf52c5a13750"
+          }
+        },
+        {
+          "client_id": "482594140560-asj8dmkq4ea1da6dkfa46vo5quj50o0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIvbIJalSUgTeZLexIwJ0YL7dJqxYYRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482594140560-asj8dmkq4ea1da6dkfa46vo5quj50o0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
